@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Miguel",
+      "id": 1
+    },
+    {
+      "name": "Miguel",
+      "id": 2
+    },
+    {
+      "name": "Bartolomeu",
+      "id": 3
+    },
+    {
+      "name": "Solene",
+      "id": 4
+    },
+    {
+      "name": "Solene",
+      "id": 5
+    },
+    {
+      "name": "Solene",
+      "id": 6
+    },
+    {
+      "name": "Solene",
+      "id": 7
+    },
+    {
+      "name": "Solene",
+      "id": 8
+    },
+    {
+      "name": "Solene",
+      "id": 9
+    },
+    {
+      "name": "Délcio",
+      "id": 10
+    }
+  ]
+}
